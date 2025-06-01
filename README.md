@@ -8,6 +8,8 @@ A simple web tool that allows users to perform advanced Google X-Ray searches to
 - Enter any job title (e.g., "X-Ray Technician", "Software Engineer")
 - Click "Search" to open a Google X-Ray search for relevant LinkedIn profiles
 
+## Live site - https://linkedin-x-ray-search.tiiny.site/
+
 ## Home Page
 ![](Home-Page.png)
 
